@@ -5,14 +5,14 @@
         jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="6064235fea71f8e690108b164a574728c7c27ef4">
+        sha1="20def1988cc50bf6ff6b5fe6120bfe4fc17b4f49">
         <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5226678e47691cec38c12115634a15ac73b60d09/classes.dex" />
     </item>
     <item
         jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="4854ab2761f959df3a951b90086026737604d0b3">
+        sha1="c06f642aac4d6bcfd1e242403689ac2fa78d6b92">
         <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_291725fd8d0024039d9bc1b0193e8172074cfe84/classes.dex" />
     </item>
     <item
