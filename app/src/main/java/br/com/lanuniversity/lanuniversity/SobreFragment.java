@@ -8,6 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import java.io.IOException;
+import java.util.List;
+import java.util.concurrent.ExecutionException;
+
 
 /**
  * A simple {@link Fragment} subclass.
@@ -58,6 +62,23 @@ public class SobreFragment extends Fragment {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
+
+        HttpJsonConnection jsonConnection = new HttpJsonConnection();
+        jsonConnection.execute("http://ragazzid.com.br/v1/site/sobre");
+        try {
+            String jsonString = jsonConnection.get();
+            System.out.println(jsonString);
+            Sobre jsonSobre = new Sobre();
+            String sobre = jsonSobre.getSobre(jsonString);
+
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (ExecutionException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
     }
 
     @Override
