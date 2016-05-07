@@ -9,46 +9,18 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916f9840-3503-47ee-9f3b-32292579412c" name="Default" comment="Primeira versão funcional do Json Parser.&#10;Criadas as classes Curso, Cursos, Instrutor, Instrutores, Sobre">
-      <change type="NEW" beforePath="" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/LanUniversityApp.iml" />
-      <change type="NEW" beforePath="" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Curso.java" />
-      <change type="NEW" beforePath="" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java" />
-      <change type="NEW" beforePath="" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LanUniversityApp.iml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/.name" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/.name" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/gradle.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/animated_vector_drawable_23_3_0.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/animated_vector_drawable_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/appcompat_v7_23_3_0.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/appcompat_v7_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/design_23_3_0.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/design_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/recyclerview_v7_23_3_0.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/recyclerview_v7_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/support_annotations_23_3_0.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/support_annotations_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/support_v4_23_3_0.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/support_v4_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/support_vector_drawable_23_3_0.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/libraries/support_vector_drawable_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/misc.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/modules.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/modules.xml" />
+    <list default="true" id="916f9840-3503-47ee-9f3b-32292579412c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutores.java" />
+      <change type="NEW" beforePath="" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Sobre.java" />
       <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/workspace.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/app.iml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/app.iml" />
+      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Curso.java" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Curso.java" />
+      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java" />
       <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java" />
+      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutor.java" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutor.java" />
       <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/InstrutoresFragment.java" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/InstrutoresFragment.java" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainActivity.java" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainActivity.java" />
       <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/SobreFragment.java" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/SobreFragment.java" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/build/intermediates/dex-cache/cache.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/local.properties" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_3_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_3_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/values/strings.xml" afterPath="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
     </list>
     <ignored path="LanUniversityApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,60 +49,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Instrutores.java" pinned="false" current-in-tab="true">
-        <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutores.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17175573">
-              <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cursos.java" pinned="false" current-in-tab="false">
-        <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1038#1045#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CursosFragment.java" pinned="false" current-in-tab="false">
         <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-              <folding />
+              <caret line="68" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2198#2250#0" expanded="true" />
+                <element signature="e#2275#2324#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,30 +67,12 @@
         <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/InstrutoresFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sobre.java" pinned="false" current-in-tab="false">
-        <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Sobre.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2238#2290#0" expanded="true" />
+                <element signature="e#2315#2369#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Instrutor.java" pinned="false" current-in-tab="false">
-        <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -171,8 +81,26 @@
         <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/SobreFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
-              <folding />
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2167#2219#0" expanded="true" />
+                <element signature="e#2244#2292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cursos.java" pinned="false" current-in-tab="true">
+        <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="3.4923663">
+              <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#180#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1345#1352#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,6 +120,7 @@
         <option value="Haraldo Filho &lt;haraldo.filho@gmail.com&gt;" />
       </list>
     </option>
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -1851,16 +1780,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Test.java" />
-        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Curso.java" />
-        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java" />
-        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/InstrutoresFragment.java" />
         <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/ILog.java" />
         <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainActivity.java" />
-        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/SobreFragment.java" />
         <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Log.java" />
-        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java" />
+        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Curso.java" />
+        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutor.java" />
         <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Sobre.java" />
         <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutores.java" />
+        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java" />
+        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/values/strings.xml" />
+        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java" />
+        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/InstrutoresFragment.java" />
+        <option value="/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/SobreFragment.java" />
       </list>
     </option>
   </component>
@@ -1895,6 +1826,108 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LanUniversityApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LanUniversityApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LanUniversityApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LanUniversityApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LanUniversityApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LanUniversityApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lanuniversity" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LanUniversityApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope">
@@ -1991,90 +2024,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LanUniversityApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LanUniversityApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LanUniversityApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LanUniversityApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LanUniversityApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lanuniversity" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LanUniversityApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -2084,7 +2033,7 @@
     <property name="android.sdk.path" value="/data/Public/Android/Linux/sdk" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AND-401/AndroidStudioProjects/DailyFortune" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../AND-401/AndroidStudioProjects/MaterialToDoList" />
     <property name="device.picker.selection" value="Nexus_5_API_23_x86" />
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -2361,6 +2310,13 @@
       <option name="number" value="Default" />
       <updated>1462573016593</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeira versão funcional do Json Parser.&#10;Criadas as classes Curso, Cursos, Instrutor, Instrutores, Sobre">
+      <created>1462644074410</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462644074410</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2401,8 +2357,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5030211" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998326" sideWeight="0.49093655" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5151057" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5795645" sideWeight="0.48489425" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -2416,11 +2372,11 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22613065" sideWeight="0.49697885" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5159129" sideWeight="0.49697885" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.49093655" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.49093655" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5030211" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5090634" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2439,6 +2395,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Primeira versão funcional do Json Parser.&#10;Criadas as classes Curso, Cursos, Instrutor, Instrutores, Sobre" />
     <option name="LAST_COMMIT_MESSAGE" value="Primeira versão funcional do Json Parser.&#10;Criadas as classes Curso, Cursos, Instrutor, Instrutores, Sobre" />
   </component>
@@ -2447,6 +2405,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2198#2250#0" expanded="true" />
+            <element signature="e#2275#2324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2470,8 +2448,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#185#0" expanded="true" />
+            <element signature="e#1561#1572#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2481,8 +2459,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="64" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1038#1045#0" expanded="true" />
+            <element signature="e#0#180#0" expanded="true" />
+            <element signature="e#1345#1352#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2491,7 +2469,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2198#2250#0" expanded="true" />
+            <element signature="e#2275#2324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2499,7 +2481,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2238#2290#0" expanded="true" />
+            <element signature="e#2315#2369#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2508,6 +2494,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
           <folding>
+            <element signature="e#0#179#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -2517,7 +2504,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2525,7 +2514,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2167#2219#0" expanded="true" />
+            <element signature="e#2244#2292#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2552,8 +2545,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#185#0" expanded="true" />
+            <element signature="e#1561#1572#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2562,7 +2555,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#135#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2579,8 +2574,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1038#1045#0" expanded="true" />
+            <element signature="e#0#180#0" expanded="true" />
+            <element signature="e#1345#1352#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2589,7 +2584,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2238#2290#0" expanded="true" />
+            <element signature="e#2315#2369#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2607,7 +2606,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2198#2250#0" expanded="true" />
+            <element signature="e#2275#2324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2616,6 +2619,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
+            <element signature="e#0#179#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -2625,7 +2629,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2167#2219#0" expanded="true" />
+            <element signature="e#2244#2292#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2633,14 +2641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2657,33 +2657,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/HttpJsonConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Curso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/ComoChegarFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2709,10 +2686,54 @@
         <state />
       </provider>
     </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/SobreFragment.java">
+    <entry file="file:///data/Public/Linux/Android/sdk/sources/android-23/org/json/JSONObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4473684">
+          <caret line="303" column="0" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/layout/fragment_cursos.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34749034">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#519#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/HttpJsonConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/MainFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Curso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="65" />
           <folding />
         </state>
       </provider>
@@ -2720,62 +2741,87 @@
     <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Public/Linux/Android/sdk/sources/android-23/org/json/JSONObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4473684">
-          <caret line="303" column="0" selection-start-line="303" selection-start-column="0" selection-end-line="303" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/InstrutoresFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="62" column="56" selection-start-line="62" selection-start-column="56" selection-end-line="62" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1038#1045#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Sobre.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#135#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Instrutores.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17175573">
-          <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
+            <element signature="e#0#185#0" expanded="true" />
+            <element signature="e#1561#1572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.8">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Sobre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20877193">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#179#0" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/SobreFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2167#2219#0" expanded="true" />
+            <element signature="e#2244#2292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/InstrutoresFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2238#2290#0" expanded="true" />
+            <element signature="e#2315#2369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/CursosFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2198#2250#0" expanded="true" />
+            <element signature="e#2275#2324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/java/br/com/lanuniversity/lanuniversity/Cursos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.4923663">
+          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#180#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1345#1352#0" expanded="true" />
           </folding>
         </state>
       </provider>
