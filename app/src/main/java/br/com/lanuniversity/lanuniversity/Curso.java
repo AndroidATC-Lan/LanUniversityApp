@@ -1,9 +1,14 @@
+/**
+ * Created by Haraldo Filho<haraldo.filho@gmail.com> on 30/04/16.
+ *
+ * Classe de objetos com as informacoes de um curso
+ *
+ */
+
 package br.com.lanuniversity.lanuniversity;
 
-/**
- * Created by haraldo on 30/04/16.
- */
 public class Curso {
+
     private String nomeDoCurso;
     private String conteudoDoCurso;
 

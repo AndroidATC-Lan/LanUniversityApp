@@ -14,4 +14,9 @@
     <string name="menu_instrutores">Instrutores</string>
     <string name="menu_como_chegar">Como chegar</string>
 
+    <string name="json_server_address">http://ragazzid.com.br/v1/site</string>
+    <string name="file_name_cursos">cursos</string>
+    <string name="file_name_instrutores">instrutores</string>
+    <string name="file_name_sobre">sobre</string>
+
 </resources>

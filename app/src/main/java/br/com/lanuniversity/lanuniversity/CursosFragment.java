@@ -4,6 +4,7 @@ import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -63,11 +64,14 @@ public class CursosFragment extends Fragment {
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
 
+        String json_server_address = getResources().getText(R.string.json_server_address) +
+                "/" + getResources().getText(R.string.file_name_cursos);
+        Log.d("Server address", json_server_address);
+
         HttpJsonConnection jsonConnection = new HttpJsonConnection();
-        jsonConnection.execute("http://ragazzid.com.br/v1/site/cursos");
+        jsonConnection.execute(json_server_address);
         try {
             String jsonString = jsonConnection.get();
-            System.out.println(jsonString);
             Cursos jsonCursos = new Cursos();
             List<Curso> cursos = jsonCursos.getCursos(jsonString);
 
