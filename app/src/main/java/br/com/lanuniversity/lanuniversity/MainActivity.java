@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity
         InstrutoresFragment.OnFragmentInteractionListener,
         ComoChegarFragment.OnFragmentInteractionListener {
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,8 +39,6 @@ public class MainActivity extends AppCompatActivity
         Fragment fragment = new MainFragment();
         android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
         fragmentManager.beginTransaction().replace(R.id.container, fragment).commit();
-
-
     }
 
     @Override
@@ -108,6 +105,5 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onFragmentInteraction(Uri uri) {
-
     }
 }
