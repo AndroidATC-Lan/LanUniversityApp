@@ -30,7 +30,7 @@ public class Sobre {
 
         this.sobre = parserJSON(json);
         Log.d("Conteudo Json", "Sobre: " + json);
-        Log.d("Objeto Sobre", sobre);
+        Log.d("Objeto Sobre", "Sobre: " + sobre);
 
         return sobre;
 
