@@ -38,21 +38,22 @@ public class SobreFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        String jsonServerAddress = getResources().getText(R.string.json_server_address) +
-                "/" + getResources().getText(R.string.file_name_sobre);
-        Log.d("Server address", jsonServerAddress);
-
-        HttpJsonConnection jsonConnection = new HttpJsonConnection();
-        jsonConnection.execute(jsonServerAddress);
+//        String jsonServerAddress = getResources().getText(R.string.json_server_address) +
+//                "/" + getResources().getText(R.string.file_name_sobre);
+//        Log.d("Server address", jsonServerAddress);
+//
+//        HttpJsonConnection jsonConnection = new HttpJsonConnection();
+//        jsonConnection.execute(jsonServerAddress);
         try {
-            String jsonString = jsonConnection.get();
+//            String jsonString = jsonConnection.get();
+            String jsonString = getResources().getString(R.string.sobre_txt);
             Sobre jsonSobre = new Sobre();
             String sobre = jsonSobre.getSobre(jsonString);
 
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        } catch (ExecutionException e) {
-            e.printStackTrace();
+//        } catch (InterruptedException e) {
+//            e.printStackTrace();
+//        } catch (ExecutionException e) {
+//            e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         }
