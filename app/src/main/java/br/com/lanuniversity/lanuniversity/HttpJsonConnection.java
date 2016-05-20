@@ -44,7 +44,7 @@ public class HttpJsonConnection extends AsyncTask<String, String, String> {
             String line;
             //Converter linhas para texto
             while ((line = reader.readLine()) != null) {
-                buffer.append(line + "\n");
+                buffer.append(line);
             }
             //Retornar ao onPostExecute
             return buffer.toString();

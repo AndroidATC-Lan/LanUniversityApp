@@ -19,8 +19,8 @@
     <string name="file_name_instrutores">instrutores</string>
     <string name="file_name_sobre">sobre</string>
 
-    <string name="sobre_txt">{"texto":"texto sobre a lan University"}</string>
-    <string name="cursos_txt">[{"NomeCurso":"Conteudo curso"},{"NomeCurso1":"fasdfsdafsdaConteudo curso"},{"NomeCurso2":"Conteudo curfsdfsdafsadfsdaso"},{"NomeCurso3":"Conteudo cursofdsafasd fsda fsda fsda fdas "}]</string>
-    <string name="instrutores_txt">[{"Evandro Van Zuben":["Historia do Instrutor","Foto"]},{"Leonardo Andrade":["Historia do Instrutor","Foto"]},{"Heitor Postale":["Historia do Instrutor","Foto"]},{"Diego Ragazzi Rondon":["Historia do Instrutor","Foto"]}]</string>
+    <string name="sobre_txt">{\"texto\":\"texto sobre a lan University\"}</string>
+    <string name="cursos_txt">[{\"NomeCurso\":\"Conteudo curso\"},{\"NomeCurso1\":\"fasdfsdafsdaConteudo curso\"},{\"NomeCurso2\":\"Conteudo curfsdfsdafsadfsdaso\"},{\"NomeCurso3\":\"Conteudo cursofdsafasd fsda fsda fsda fdas \"}]</string>
+    <string name="instrutores_txt">[{\"Evandro Van Zuben\":[\"Historia do Instrutor\",\"Foto\"]},{\"Leonardo Andrade\":[\"Historia do Instrutor\",\"Foto\"]},{\"Heitor Postale\":[\"Historia do Instrutor\",\"Foto\"]},{\"Diego Ragazzi Rondon\":[\"Historia do Instrutor\",\"Foto\"]}]</string>
 
 </resources>
