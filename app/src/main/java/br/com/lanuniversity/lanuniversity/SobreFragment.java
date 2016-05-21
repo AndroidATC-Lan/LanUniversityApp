@@ -13,6 +13,9 @@ import android.widget.TextView;
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;
 
+import java.io.IOException;
+import java.util.concurrent.ExecutionException;
+
 
 /**
  * A simple {@link Fragment} subclass.
@@ -53,6 +56,7 @@ public class SobreFragment extends Fragment {
             Sobre jsonSobre = new Sobre();
             sobre = jsonSobre.getSobre(jsonString);
 
+
 //        } catch (InterruptedException e) {
 //            e.printStackTrace();
 //        } catch (ExecutionException e) {
@@ -60,6 +64,7 @@ public class SobreFragment extends Fragment {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
     }
 
     @Override
