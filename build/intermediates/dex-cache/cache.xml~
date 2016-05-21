@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<items version="2" />
+=======
+<items version="2" >
+
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20def1988cc50bf6ff6b5fe6120bfe4fc17b4f49">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5226678e47691cec38c12115634a15ac73b60d09/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c06f642aac4d6bcfd1e242403689ac2fa78d6b92">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_291725fd8d0024039d9bc1b0193e8172074cfe84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_aa47d2ea1cf0288d8ec7217c7e9093f7d7509ec7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_5b6a097c8121c37e8d2e95ec15c0e0a59053d080/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_3fc5353efa4a37fb77674622dfe66fbcc85cb9ff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_c632b69645a067b5851be76c4679ddc322192497/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_f7e0b652d726508aea37a81f8c361c8fbfe64599/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_57932456c364d90ef8f4c0766729d54f0625ef4c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_9853ee2047f7baeef236927f5a8f012c54799103/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/rain/AndroidStudioProjects/AppLanUniversity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_748358d84785c73f854e7d12f3ccc20eb97adc7e/classes.dex" />
+    </item>
+
+</items>
+>>>>>>> c669c0410df8b282e1af167f5ea1a323f8f64c9f

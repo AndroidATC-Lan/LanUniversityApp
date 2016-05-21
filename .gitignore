@@ -6,7 +6,7 @@
 *.dex
 
 # Java class files
-*.class
+
 
 # Generated files
 bin/
@@ -15,8 +15,9 @@ out/
 
 # Gradle files
 .gradle/
+*.gradle/
 build/
-
+/.gradle/
 # Local configuration file (sdk path, etc)
 local.properties
 
@@ -56,4 +57,11 @@ captures/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+
+#apps
+app/
+.app/

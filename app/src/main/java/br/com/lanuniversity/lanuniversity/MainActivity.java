@@ -120,7 +120,6 @@ public class MainActivity extends AppCompatActivity
                 break;
         }
 
-
         if (fragment != null) {
             paginaAtual = fragment;
             android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <module external.linked.project.id="LanUniversityApp" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+=======
+<module external.linked.project.id="LanUniversityApp" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$USER_HOME$/Documentos/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+>>>>>>> 3fab2d4e6df6ea96fa3c75437656e2ad62e27d3f
   <component name="FacetManager">
     <facet type="java-gradle" name="Java-Gradle">
       <configuration>
@@ -13,7 +17,11 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.gradle" />
     </content>
+<<<<<<< HEAD
     <orderEntry type="inheritedJdk" />
+=======
+    <orderEntry type="jdk" jdkName="Android API 8 Platform" jdkType="Android SDK" />
+>>>>>>> 3fab2d4e6df6ea96fa3c75437656e2ad62e27d3f
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
