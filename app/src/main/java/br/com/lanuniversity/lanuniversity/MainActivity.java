@@ -1,6 +1,11 @@
 package br.com.lanuniversity.lanuniversity;
 
+import android.app.Activity;
+import android.content.Intent;
+import android.content.res.Configuration;
+import android.content.res.Resources;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
@@ -12,6 +17,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import java.util.Locale;
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,
         MainFragment.OnFragmentInteractionListener,
@@ -19,6 +26,8 @@ public class MainActivity extends AppCompatActivity
         CursosFragment.OnFragmentInteractionListener,
         InstrutoresFragment.OnFragmentInteractionListener,
         ComoChegarFragment.OnFragmentInteractionListener {
+
+    static Fragment paginaAtual = null;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +46,12 @@ public class MainActivity extends AppCompatActivity
         navigationView.setNavigationItemSelectedListener(this);
 
         Fragment fragment = new MainFragment();
+
+        if (paginaAtual != null)
+        {
+            fragment = paginaAtual;
+        }
+
         android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
         fragmentManager.beginTransaction().replace(R.id.container, fragment).commit();
     }
@@ -94,16 +109,49 @@ public class MainActivity extends AppCompatActivity
             case R.id.nav_como_chegar:
                 fragment = new ComoChegarFragment();
                 break;
+            case R.id.nav_idioma_portugues:
+                configurarIdioma("pt");
+                break;
+            case R.id.nav_idioma_ingles:
+                configurarIdioma("en");
+                break;
+            case R.id.nav_idioma_espanhol:
+                configurarIdioma("es");
+                break;
         }
-        android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
-        fragmentManager.beginTransaction().replace(R.id.container, fragment).commit();
+
+        if (fragment != null) {
+            paginaAtual = fragment;
+            android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.container, fragment).commit();
+        }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
+
         return true;
     }
 
     @Override
     public void onFragmentInteraction(Uri uri) {
+    }
+
+    private void configurarIdioma(String pstrIdioma){
+
+        final Resources lresResource = this.getResources();
+        final Configuration lcnfConfig = lresResource.getConfiguration();
+        if (pstrIdioma == null || pstrIdioma.length() == 0)
+        {
+            lcnfConfig.locale = Locale.getDefault();
+        }
+        else
+        {
+            lcnfConfig.locale = new Locale(pstrIdioma);
+            Locale.setDefault(new Locale(pstrIdioma));
+        }
+
+        lresResource.updateConfiguration(lcnfConfig, lresResource.getDisplayMetrics());
+        recreate();
+
     }
 }
