@@ -45,8 +45,7 @@ public class SobreFragment extends Fragment {
         super.onCreate(savedInstanceState);
 
         try {
-//            String jsonServerAddress = getResources().getText(R.string.json_server_address) +
-//                    "/" + getResources().getText(R.string.file_name_sobre);
+//            String jsonServerAddress = Constants.cAPI_SOBRE;
 //            Log.d("Server address", jsonServerAddress);
 //
 //            HttpJsonConnection jsonConnection = new HttpJsonConnection();

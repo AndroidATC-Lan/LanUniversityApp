@@ -19,6 +19,8 @@ import java.io.IOException;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
 
+import br.com.lanuniversity.lanuniversity.Constants;
+
 
 /**
  * A simple {@link Fragment} subclass.
@@ -48,8 +50,7 @@ public class InstrutoresFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-//        String jsonServerAddress = getResources().getText(R.string.json_server_address) +
-//                "/" + getResources().getText(R.string.file_name_instrutores);
+//        String jsonServerAddress = Constants.cAPI_INSTRUTORES;
 //        Log.d("Server address", jsonServerAddress);
 //
 //        HttpJsonConnection jsonConnection = new HttpJsonConnection();

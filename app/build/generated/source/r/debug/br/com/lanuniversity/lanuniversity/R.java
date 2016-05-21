@@ -2535,20 +2535,16 @@ containing a value of this type.
         public static final int character_counter_pattern=0x7f050017;
         public static final int como_chegar_txt=0x7f050018;
         public static final int cursos_txt=0x7f050019;
-        public static final int file_name_cursos=0x7f05001a;
-        public static final int file_name_instrutores=0x7f05001b;
-        public static final int file_name_sobre=0x7f05001c;
-        public static final int instrutores_txt=0x7f05001d;
-        public static final int json_server_address=0x7f05001e;
-        public static final int menu_como_chegar=0x7f05001f;
-        public static final int menu_cursos=0x7f050020;
-        public static final int menu_instrutores=0x7f050021;
-        public static final int menu_sobre=0x7f050022;
-        public static final int navigation_drawer_close=0x7f050023;
-        public static final int navigation_drawer_open=0x7f050024;
-        public static final int navigation_drawer_title=0x7f050025;
-        public static final int navigation_drawer_web_adress=0x7f050026;
-        public static final int sobre_txt=0x7f050027;
+        public static final int instrutores_txt=0x7f05001a;
+        public static final int menu_como_chegar=0x7f05001b;
+        public static final int menu_cursos=0x7f05001c;
+        public static final int menu_instrutores=0x7f05001d;
+        public static final int menu_sobre=0x7f05001e;
+        public static final int navigation_drawer_close=0x7f05001f;
+        public static final int navigation_drawer_open=0x7f050020;
+        public static final int navigation_drawer_title=0x7f050021;
+        public static final int navigation_drawer_web_adress=0x7f050022;
+        public static final int sobre_txt=0x7f050023;
         public static final int status_bar_notification_info_overflow=0x7f050013;
     }
     public static final class style {

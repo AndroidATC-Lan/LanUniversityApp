@@ -290,11 +290,7 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="como_chegar_txt">Como chegar</string>
     <string name="cursos_txt">[{\"Android Application Development\":\"Curso de 30 horas que proporciona o conhecimento necessário para desenvolver um aplicativo Android do começo ao fim.\"},{\"Android Security Essentials\":\"Curso de 12 horas que cobre completamente o modelo de segurança Android tanto do ponto de vista do desenvolvedor quanto do usuário final.\"},{\"Monetize Android Applications\":\"Curso de 12 horas que ensina todas as técnicas básicas para gerar receitas com seu aplicativo Android e torná-lo um excelente produto de venda.\"}]</string>
-    <string name="file_name_cursos">cursos</string>
-    <string name="file_name_instrutores">instrutores</string>
-    <string name="file_name_sobre">sobre</string>
     <string name="instrutores_txt">[{\"Evandro Van Zuben\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]},{\"Leonardo Andrade\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]},{\"Heitor Postale\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]},{\"Diego Ragazzi Rondon\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]}]</string>
-    <string name="json_server_address">http://ragazzid.com.br/v1/site</string>
     <string name="menu_como_chegar">Como chegar</string>
     <string name="menu_cursos">Cursos</string>
     <string name="menu_instrutores">Instrutores</string>
