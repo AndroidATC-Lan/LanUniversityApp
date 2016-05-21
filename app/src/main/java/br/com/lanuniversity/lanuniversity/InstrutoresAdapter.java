@@ -1,6 +1,9 @@
 /**
  * Created by Haraldo Filho<haraldo.filho@gmail.com> on 20/05/16.
  *
+ * Classe responsavel por fazer a conexao entre os objetos do tipo Instrutor
+ * e as views de InstrutoresFragment.
+ *
  */
 
 package br.com.lanuniversity.lanuniversity;
