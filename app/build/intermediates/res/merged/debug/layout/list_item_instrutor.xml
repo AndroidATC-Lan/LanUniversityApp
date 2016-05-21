@@ -6,31 +6,39 @@
         android:layout_width="60dp"
         android:layout_height="80dp"
         android:id="@+id/imgFotoDoInstrutor"
-        android:layout_marginTop="10dp" />
+        android:layout_marginTop="10dp"
+        android:background="#ede3e3"
+        android:layout_marginBottom="10dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Large Text"
+        android:text="Nome do Instrutor"
         android:id="@+id/txtNomeDoInstrutor"
         android:textAlignment="viewStart"
         android:singleLine="true"
         android:layout_toEndOf="@+id/imgFotoDoInstrutor"
         android:layout_alignParentEnd="true"
-        android:layout_alignTop="@+id/imgFotoDoInstrutor" />
+        android:layout_alignTop="@+id/imgFotoDoInstrutor"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="5dp" />
 
     <TextView
-        android:layout_width="fill_parent"
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:text="Small Text"
+        android:text="historia do instrutor"
         android:id="@+id/txtHistoriaDoInstrutor"
-        android:singleLine="true"
-        android:textSize="16dp"
-        android:layout_toRightOf="@+id/imgFotoDoInstrutor"
+        android:singleLine="false"
+        android:textSize="15dp"
         android:layout_below="@+id/txtNomeDoInstrutor"
-        android:layout_alignParentLeft="false"
-        android:layout_alignWithParentIfMissing="false" />
+        android:layout_toRightOf="@+id/imgFotoDoInstrutor"
+        android:layout_toEndOf="@+id/imgFotoDoInstrutor"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="false" />
 
 </RelativeLayout>
