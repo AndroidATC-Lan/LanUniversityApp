@@ -20,5 +20,15 @@
             android:title="@string/menu_como_chegar" />
     </group>
 
+    <item android:title="@string/menu_idioma">
+        <menu>
+            <item android:id="@+id/nav_idioma_portugues" android:icon="@mipmap/ic_menu_idioma_portugues"
+                android:title="@string/menu_idioma_portugues" />
+            <item android:id="@+id/nav_idioma_ingles" android:icon="@mipmap/ic_menu_idioma_ingles"
+                android:title="@string/menu_idioma_ingles" />
+            <item android:id="@+id/nav_idioma_espanhol" android:icon="@mipmap/ic_menu_idioma_espanhol"
+                android:title="@string/menu_idioma_espanhol" />
+        </menu>
+    </item>
 
 </menu>

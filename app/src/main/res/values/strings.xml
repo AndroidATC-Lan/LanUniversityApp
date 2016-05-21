@@ -9,6 +9,10 @@
     <string name="navigation_drawer_title">LanUniversity</string>
     <string name="navigation_drawer_web_adress">lanuniversity.com.br</string>
 
+    <string name="menu_idioma">Idioma</string>
+    <string name="menu_idioma_portugues">Português (Brasil)</string>
+    <string name="menu_idioma_ingles">Inglês</string>
+    <string name="menu_idioma_espanhol">Espanhol</string>
     <string name="menu_sobre">Sobre</string>
     <string name="menu_cursos">Cursos</string>
     <string name="menu_instrutores">Instrutores</string>
