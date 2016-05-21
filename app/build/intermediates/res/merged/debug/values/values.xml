@@ -288,11 +288,11 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="cursos_txt">[{\"NomeCurso\":\"Conteudo curso\"},{\"NomeCurso1\":\"fasdfsdafsdaConteudo curso\"},{\"NomeCurso2\":\"Conteudo curfsdfsdafsadfsdaso\"},{\"NomeCurso3\":\"Conteudo cursofdsafasd fsda fsda fsda fdas \"}]</string>
+    <string name="cursos_txt">[{\"Android Application Development\":\"Curso de 30 horas que proporciona o conhecimento necessário para desenvolver um aplicativo Android do começo ao fim.\"},{\"Android Security Essentials\":\"Curso de 12 horas que cobre completamente o modelo de segurança Android tanto do ponto de vista do desenvolvedor quanto do usuário final.\"},{\"Monetize Android Applications\":\"Curso de 12 horas que ensina todas as técnicas básicas para gerar receitas com seu aplicativo Android e torná-lo um excelente produto de venda.\"}]</string>
     <string name="file_name_cursos">cursos</string>
     <string name="file_name_instrutores">instrutores</string>
     <string name="file_name_sobre">sobre</string>
-    <string name="instrutores_txt">[{\"Evandro Van Zuben\":[\"Historia do Instrutor\",\"Foto\"]},{\"Leonardo Andrade\":[\"Historia do Instrutor\",\"Foto\"]},{\"Heitor Postale\":[\"Historia do Instrutor\",\"Foto\"]},{\"Diego Ragazzi Rondon\":[\"Historia do Instrutor\",\"Foto\"]}]</string>
+    <string name="instrutores_txt">[{\"Evandro Van Zuben\":[\"Historia do Instrutor\",\"R.drawable.logo_launcher\"]},{\"Leonardo Andrade\":[\"Historia do Instrutor\",\"Foto\"]},{\"Heitor Postale\":[\"Historia do Instrutor\",\"Foto\"]},{\"Diego Ragazzi Rondon\":[\"Historia do Instrutor\",\"Foto\"]}]</string>
     <string name="json_server_address">http://ragazzid.com.br/v1/site</string>
     <string name="menu_como_chegar">Como chegar</string>
     <string name="menu_cursos">Cursos</string>
@@ -302,7 +302,8 @@
     <string name="navigation_drawer_open">Abrir menu de navegação</string>
     <string name="navigation_drawer_title">LanUniversity</string>
     <string name="navigation_drawer_web_adress">lanuniversity.com.br</string>
-    <string name="sobre_txt">{\"texto\":\"texto sobre a lan University\"}</string>
+    <string name="sobre_txt">{\"texto\":\"A Lan University é um centro de treinamentos direcionado a profissionais e estudantes da área de Tecnologia da Informação (TI) que há mais de 20 anos atua na região de Campinas. Durante esse tempo recebeu vários prêmios por sua notoriedade, sendo considerado melhor centro de treinamento Novell da América Latina, mas encerrou suas atividades ao final de 2008.
+        No final do primeiro semestre de 2009, o Centro Cultural Brasil Estados Unidos Campinas (www.ccbeuc.com.br), adquiriu a marca Lan University estendendo sua atuação com a abertura de uma divisão de cursos tecnológicos em TI aliados ao inglês, duas habilidades que juntas proporcionam alta empregabilidade no mercado.\"}</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

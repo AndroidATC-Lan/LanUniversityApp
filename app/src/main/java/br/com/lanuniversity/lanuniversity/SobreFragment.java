@@ -8,6 +8,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;
@@ -25,6 +26,8 @@ public class SobreFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;
 
+    private String sobre;
+
     public SobreFragment() {
         // Required empty public constructor
     }
@@ -38,17 +41,17 @@ public class SobreFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-//        String jsonServerAddress = getResources().getText(R.string.json_server_address) +
-//                "/" + getResources().getText(R.string.file_name_sobre);
-//        Log.d("Server address", jsonServerAddress);
-//
-//        HttpJsonConnection jsonConnection = new HttpJsonConnection();
-//        jsonConnection.execute(jsonServerAddress);
         try {
+//            String jsonServerAddress = getResources().getText(R.string.json_server_address) +
+//                    "/" + getResources().getText(R.string.file_name_sobre);
+//            Log.d("Server address", jsonServerAddress);
+//
+//            HttpJsonConnection jsonConnection = new HttpJsonConnection();
+//            jsonConnection.execute(jsonServerAddress);
 //            String jsonString = jsonConnection.get();
             String jsonString = getResources().getString(R.string.sobre_txt);
             Sobre jsonSobre = new Sobre();
-            String sobre = jsonSobre.getSobre(jsonString);
+            sobre = jsonSobre.getSobre(jsonString);
 
 //        } catch (InterruptedException e) {
 //            e.printStackTrace();
@@ -57,14 +60,18 @@ public class SobreFragment extends Fragment {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
     }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_sobre, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_sobre, container, false);
+
+        TextView textView = (TextView) rootView.findViewById(R.id.txtSobre);
+        textView.setText(sobre);
+
+        return rootView;
     }
 
     // TODO: Rename method, update argument and hook method into UI event

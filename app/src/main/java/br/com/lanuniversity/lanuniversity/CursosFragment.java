@@ -8,6 +8,8 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
 
 import java.io.IOException;
 import java.util.List;
@@ -25,6 +27,9 @@ import java.util.concurrent.ExecutionException;
 public class CursosFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;
+
+    private List<Curso> cursos;
+    private ArrayAdapter adapter;
 
     public CursosFragment() {
         // Required empty public constructor
@@ -49,7 +54,7 @@ public class CursosFragment extends Fragment {
 //            String jsonString = jsonConnection.get();
             String jsonString = getResources().getString(R.string.cursos_txt);
             Cursos jsonCursos = new Cursos();
-            List<Curso> cursos = jsonCursos.getCursos(jsonString);
+            cursos = jsonCursos.getCursos(jsonString);
 
 //        } catch (InterruptedException e) {
 //            e.printStackTrace();
@@ -64,8 +69,14 @@ public class CursosFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_cursos, container, false);
+
+        View rootView = inflater.inflate(R.layout.fragment_cursos, container, false);
+        CursosAdapter adapter = new CursosAdapter(this.getContext(), cursos);
+        ListView listCursos = (ListView) rootView.findViewById(R.id.lstCursos);
+        listCursos.setAdapter(adapter);
+
+        return rootView;
+
     }
 
     // TODO: Rename method, update argument and hook method into UI event
