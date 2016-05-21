@@ -95,7 +95,6 @@ public class MainActivity extends AppCompatActivity
                 fragment = new ComoChegarFragment();
                 break;
         }
-
         android.support.v4.app.FragmentManager fragmentManager = getSupportFragmentManager();
         fragmentManager.beginTransaction().replace(R.id.container, fragment).commit();
 
