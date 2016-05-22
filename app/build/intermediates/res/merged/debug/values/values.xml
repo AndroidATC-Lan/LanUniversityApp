@@ -293,6 +293,10 @@
     <string name="instrutores_txt">[{\"Evandro Van Zuben\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]},{\"Leonardo Andrade\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]},{\"Heitor Postale\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]},{\"Diego Ragazzi Rondon\":[\"Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor. Historia do Instrutor.\",\"Foto\"]}]</string>
     <string name="menu_como_chegar">Como chegar</string>
     <string name="menu_cursos">Cursos</string>
+    <string name="menu_idioma">Idioma</string>
+    <string name="menu_idioma_espanhol">Espanhol</string>
+    <string name="menu_idioma_ingles">Inglês</string>
+    <string name="menu_idioma_portugues">Português (Brasil)</string>
     <string name="menu_instrutores">Instrutores</string>
     <string name="menu_sobre">Sobre</string>
     <string name="navigation_drawer_close">Fechar menu de navegação</string>
