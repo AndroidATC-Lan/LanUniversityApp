@@ -36,6 +36,10 @@
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_menu_item_action_area.xml"
     },
@@ -46,6 +50,10 @@
     {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
     },
     {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/fragment_sobre.xml",
@@ -108,12 +116,12 @@
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/layout/app_bar_main.xml"
     },
     {
-        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
-        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/layout/fragment_main.xml"
-    },
-    {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/layout/fragment_main.xml"
     },
     {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -184,6 +192,18 @@
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/fragment_instrutores.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/src/main/res/layout/fragment_instrutores.xml"
     },
@@ -200,6 +220,10 @@
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_menu.xml"
     },
     {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media.xml"
     },
@@ -210,6 +234,10 @@
     {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_progress.xml"
     },
     {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
@@ -224,12 +252,20 @@
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_lines.xml"
     },
     {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -238,9 +274,5 @@
     {
         "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/data/Haraldo/Documents/LanUniversity/AULAS-EXTRAS/AndroidStudioProjects/LanUniversityApp/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_header.xml"
     }
 ]
