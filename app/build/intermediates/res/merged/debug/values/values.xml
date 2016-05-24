@@ -398,7 +398,7 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="como_chegar_txt">Como chegar</string>
+    <string name="como_chegar_txt">Rua Frei Antônio de Pádua, 1.122\nGuanabara, Campinas-SP\nCEP: 13073-330  Tel: 19 3242.8805\ne-mail: atendimento@lanuniversity.com.br</string>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="cursos_txt">[{\"Android Application Development\":\"Curso de 30 horas que proporciona o conhecimento necessário para desenvolver um aplicativo Android do começo ao fim.\"},{\"Android Security Essentials\":\"Curso de 12 horas que cobre completamente o modelo de segurança Android tanto do ponto de vista do desenvolvedor quanto do usuário final.\"},{\"Monetize Android Applications\":\"Curso de 12 horas que ensina todas as técnicas básicas para gerar receitas com seu aplicativo Android e torná-lo um excelente produto de venda.\"}]</string>
