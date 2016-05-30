@@ -15,8 +15,9 @@
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:src="@drawable/logo_drawer" />
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/logo_drawer"
+        android:scaleX="1.5" android:scaleY="1.5"/>
 
     <TextView
         android:layout_width="match_parent"

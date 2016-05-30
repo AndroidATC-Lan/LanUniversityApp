@@ -11,7 +11,7 @@
         android:src="@drawable/logo_lan"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="166dp" />
+        android:layout_marginTop="166dp" android:scaleX="2.0" android:scaleY="2.0" />
 
 
 </RelativeLayout>
