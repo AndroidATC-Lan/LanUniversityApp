@@ -4,16 +4,11 @@
     android:layout_height="match_parent"
     tools:context="br.com.lanuniversity.lanuniversity.CursosFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-
-    <TextView
+    <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/menu_cursos"
-        android:id="@+id/txt2"
+        android:id="@+id/lstCursos"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
