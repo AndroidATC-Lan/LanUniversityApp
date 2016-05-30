@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanUniversity</string>
+
+    <string name="navigation_drawer_open">Abrir el menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar el menú de navegación</string>
+
+    <!--<string name="action_settings">Configurações</string>-->
+
+    <string name="navigation_drawer_title">LanUniversity</string>
+    <string name="navigation_drawer_web_adress">lanuniversity.com.br</string>
+
+    <string name="menu_idioma">Idioma</string>
+    <string name="menu_idioma_portugues">Portugués (Brasil)</string>
+    <string name="menu_idioma_ingles">Inglés</string>
+    <string name="menu_idioma_espanhol">Español</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="menu_cursos">Cursos</string>
+    <string name="menu_instrutores">Instructores</string>
+    <string name="menu_como_chegar">Como llegar</string>
+</resources>
